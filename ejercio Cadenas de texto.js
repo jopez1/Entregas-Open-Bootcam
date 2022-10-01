@@ -12,4 +12,3 @@ let boleano = Boolean(estudiante)
 
 
 console.log(boleano)
-
