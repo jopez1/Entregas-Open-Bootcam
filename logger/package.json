@@ -1,0 +1,28 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstprojet"
+  ],
+  "author": "Antonio Flores",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jopez1/Entregas-Open-Bootcam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jopez1/Entregas-Open-Bootcam/issues"
+  },
+  "homepage": "https://github.com/jopez1/Entregas-Open-Bootcam#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
